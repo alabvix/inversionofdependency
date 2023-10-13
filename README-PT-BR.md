@@ -24,3 +24,8 @@ O projeto apresanta um módulo para calcular o salário de um empregado.
 
 
 Para garantir o DIP, nossa classe de alto nível (Main) não deve incluir nenhuma referência para o detalhe de baixo nível EmployeeSalaryCalculator, por isso é usada a Interface EmployeeSalaryService
+
+## Links
+[DIP in the Wild](https://martinfowler.com/articles/dipInTheWild.html)
+
+[SOLID](https://en.wikipedia.org/wiki/SOLID)
