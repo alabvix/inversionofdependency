@@ -2,7 +2,7 @@
 
 <span style="font-size:15px;">
 O princípio DIP advoga que em um sistema de software módulos de alto nível devem depender de abstrações
-ao invés dos detalhes e módulos de baixo nível.
+ao invés dos detalhes, implementações de lógicas complexas e regras de negócio (baixo nível).
 </span>
 
 ### Módulos de alto nível
