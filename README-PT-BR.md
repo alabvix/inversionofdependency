@@ -6,10 +6,10 @@ ao invés dos detalhes, implementações de lógicas complexas e regras de negó
 </span>
 
 ### Módulos de alto nível
-> São as classes e funçõe de entrada, mais fáceis de serem entendidas,que não possuem lógica complexa.
+> São as classes mais volatéis, ou seja, que mudam com mais regularidade. Contém as regras de negócio.
 
 ### Detalhes/baixo nível
-> São as classes que possuem logica mais complexa, regras de neógcio, implementações.
+> São as classes menos voláteis, ou seja, que mudam pouco. São o framework, drivers, classe de configuração.
 
 ### Benefícios
 * Desacoplar módulos torna o código fácil de manter e testar.

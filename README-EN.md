@@ -5,10 +5,10 @@ The Dependency Inversion Principle (DIP) advocates that in a software system, hi
 </span>
 
 ### High-level modules
-> They are classes and entry-level functions, which are easier to understand and do not have complex logic.
+> Business logic classes, theyn change with certain regularity.
 
 ### Details/low-level
-> These are classes that have more complex logic, business rules, and implementations.
+> These classes don't change with regularity. Frameworks, drivers. 
 
 ### Why Dependency Inversion is Worth Using?
 * Decoupling modules makes the code easy to maintain and test.
